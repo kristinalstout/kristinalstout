@@ -1,6 +1,6 @@
 Hi there 👋 My name's Kristina!
 
-<a href="URL_REDIRECT" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D4E03AQE8--3JhW9ccw/profile-displayphoto-shrink_400_400/0/1672415386371?e=1704326400&v=beta&t=qOUzuxwNHIN8XKP9Io9PjoJwRyJYpzVK7V49u8cvcW8" height="100" /></a>
+<a href="URL_REDIRECT" target="blank"><img align="center" src="https://github.com/kristinalstout/portolfio/blob/main/components/F2486CBC-E341-493A-9D0F-9DB53CE62C8E_1_105_c.jpeg?raw=true" height="100" /></a>
 
 <!--
 **kristinalstout/kristinalstout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
