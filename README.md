@@ -28,7 +28,7 @@ Databases and Developer Tools: PostgreSQL, MongoDB, Git
 
 ## 🚀 **About Me**:
 
-My name is Kristina Stout and I am a graduate from Flatiron School's Software Engineering Live Program. I am currently a Data Scientist, specializing in Python and using Pandas to deliver creative insights on customer data.
+My name is Kristina Stout and I am a graduate from Flatiron School's Software Engineering Live Program. I am currently a Data Scientist, specializing in Python and using Pandas to deliver digestible insights on customer data.
 
 As a developer, my talents lie in finding creative solutions to complicated problems. My passion for coding stems from the freedom found in the confines of a coding language. While there are parameters and rules, there is the capacity for beautifully designed code in infinite variations. I strive to constantly learn and optimize with every project I create.
 
