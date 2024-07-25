@@ -1,4 +1,4 @@
-# Kristina Stout
+# Hi 👋 I'm Kristina
 
 ### 📍 Location: Maryland
 ### 📧 Email: [kristinalstout@gmail.com](mailto:kristinalstout@gmail.com)
